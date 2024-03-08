@@ -1,4 +1,4 @@
-f = open('/home/lue/adoctn/day1/input.txt', 'r') 
+f = open('/home/lue/code/github/aocgithub/day1/input.txt', 'r') 
 file = f.read() # file est la cdc contenant le contenu du fichier
 f.close() #on ferme proprement
 
